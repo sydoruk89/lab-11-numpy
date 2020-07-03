@@ -1,18 +1,18 @@
-## Numpy
+# Numpy
 **Author:** Roman Sydoruk\
  **Version:** 1.0.0
 
-# Description
+## Description
 
 The application renders out chess boards with red and blue queens on them.
 
-# Architecture
+## Architecture
 
 * Python 3.8.3
 * Poetry
 * Jupyter Lab
 
-# Usage 
+## Usage 
 **class ChessBoard:** - this class initiate the chessboard with white and black squares.\
 **add_red** - method that accepts a row and column as input.\
 **add_blue** - method that accepts a row and column as input.\
